@@ -1,5 +1,5 @@
 #for data
-./*.csv
+*/.csv
 
 #for mac
 */.DS_Store
