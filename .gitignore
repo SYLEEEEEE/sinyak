@@ -1,14 +1,13 @@
 #for data
-open/*.csv
 *.csv
 
 
 #for mac
-open/.DS_Store
+*/.DS_Store
 .DS_Store
 
 #for jupyter notebook
-open/.ipynb_checkpoints/
+*/.ipynb_checkpoints/
 .ipynb_checkpoints/
 
 
